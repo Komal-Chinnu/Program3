@@ -1,5 +1,4 @@
-package Program3;
-
+ 
 
 public class Student {
     String name;
